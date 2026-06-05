@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Employee Assistant",
+  "description": "A production-ready UI & API full-stack Employee Support Chatbot featuring document intelligence, secure OTP verification, semantic retrieval, and robust content moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
